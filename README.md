@@ -43,7 +43,7 @@ A simple web application that allows you to upload CSV or Excel files and perfor
 
 Have feedback or suggestions? Feel free to reach out:  
 - Email: nitinoneplus7@gmail.com  
-- GitHub: [Your GitHub](https://github.com/nitinmahala)  
+- GitHub: [GitHub](https://github.com/nitinmahala)  
 
 ---
 
