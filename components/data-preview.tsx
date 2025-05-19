@@ -4,6 +4,7 @@ interface DataPreviewProps {
   data: any[]
 }
 
+
 export function DataPreview({ data }: DataPreviewProps) {
   if (!data.length) return null
 
